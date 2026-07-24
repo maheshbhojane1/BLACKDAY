@@ -257,3 +257,34 @@ footer ul a:hover{color:var(--marigold);}
   .nav-links{display:none;}
   .roach-cursor{display:none;}
 }
+
+
+
+/* Small Phones */
+@media screen and (max-width: 407px) {
+
+  .upload-panel {
+    padding: 16px;
+  }
+
+  .upload-panel h2 {
+    font-size: 1.35rem;
+  }
+
+  .sub {
+    font-size: 13px;
+  }
+
+  input,
+  select,
+  textarea {
+    font-size: 14px;
+    padding: 10px;
+    width: 100%;
+  }
+
+  .btn.primary {
+    padding: 12px;
+    font-size: 14px;
+  }
+}
