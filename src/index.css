@@ -261,7 +261,7 @@ footer ul a:hover{color:var(--marigold);}
 
 
 /* Small Phones */
-@media screen and (max-width: 407px) {
+@media screen and (max-width: 435px) {
 
   .upload-panel {
     padding: 16px;
